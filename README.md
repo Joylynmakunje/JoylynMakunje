@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Joylyn 👋
 
-<!--
-**Joylynmakunje/JoylynMakunje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BSc Computing student (Computer Science & Information Science)  
+💡 Interested in IT Assurance, Data Integrity, and Technology Consulting  
+📊 Passionate about using technology to solve real-world business problems  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, C++
+- SQL (MySQL)
+- Microsoft Excel
+- Problem Solving & Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Weather Application (Python) – Fetches and displays real-time weather data using APIs
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/joylyn-makunje-7a610b343
