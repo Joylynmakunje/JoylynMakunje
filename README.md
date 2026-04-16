@@ -12,6 +12,7 @@
 
 ## 📌 Projects
 - Weather Application (Python) – Fetches and displays real-time weather data using APIs
+- SQL student database system
 
 ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/joylyn-makunje-7a610b343
